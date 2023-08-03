@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm Juan. I am an online instructor, teaching about Web Development around the world, in Spanish and English. You can learn more about my courses and me from my website: https://www.juandmegon.com/#courses
+I'm Juan. I am a Software Engineer, working mainly in Web Development using technologies like Laravel, PHP, Livewire, Tailwind, and Alpine.js, among others! I am also an online instructor teaching about Web Development in Spanish and English. You can learn more about me and my courses in my website: https://www.juandmegon.com/#courses
 
-You can follow me on Twitter where I regularly share useful topics and progress of projects: https://twitter.com/JuanDMeGon
+You can follow me on Twitter where I regularly share useful topics and the progress of projects: https://twitter.com/JuanDMeGon
 
 [![Msurguy's github stats](https://github-readme-stats.vercel.app/api?username=JuanDMeGon&theme=vue&show_icons=true)](https://github.com/JuanDMeGon)
 
